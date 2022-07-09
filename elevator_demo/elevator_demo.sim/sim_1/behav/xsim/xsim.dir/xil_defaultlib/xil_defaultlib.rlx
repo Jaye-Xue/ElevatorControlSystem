@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+F:/vivado_projects/elevator_demo/elevator_demo.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/btn_debounce.v,1655305459,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/new/call.v,,btn_debounce,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/display_seg.v,1656051972,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/door.v,,display_seg,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/door.v,1656492686,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/new/in_btn.v,,door,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/led.v,1656493147,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/new/out_btn.v,,led,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/state.v,1656499254,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/top_module.v,,state,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/top_module.v,1656493267,verilog,,,,top_module,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/new/call.v,1656058895,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/display_seg.v,,call,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/new/in_btn.v,1656493538,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/led.v,,in_btn,,,,,,,,
+F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/new/out_btn.v,1656493694,verilog,,F:/vivado_projects/elevator_demo/elevator_demo.srcs/sources_1/imports/20220623backup/state.v,,out_btn,,,,,,,,

@@ -1,0 +1,21 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: F:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 5147029b2c0c46d39f62fabfc2959301 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot top_module_behav xil_defaultlib.top_module xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+WARNING: [XSIM 43-3431] One or more environment variables have been detected which affect the operation of the C compiler. These are typically not set in standard installations and are not tested by Xilinx, however they may be appropriate for your system, so the flow will attempt to continue.  If errors occur, try running xelab with the "-mt off -v 1" switches to see more information from the C compiler. The following environment variables have been detected:
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.btn_debounce
+Compiling module xil_defaultlib.state
+Compiling module xil_defaultlib.led
+Compiling module xil_defaultlib.display_seg
+Compiling module xil_defaultlib.door
+Compiling module xil_defaultlib.call
+Compiling module xil_defaultlib.in_btn
+Compiling module xil_defaultlib.out_btn
+Compiling module xil_defaultlib.top_module
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot top_module_behav

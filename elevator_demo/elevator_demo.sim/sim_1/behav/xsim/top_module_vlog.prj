@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../elevator_demo.srcs/sources_1/imports/20220623backup/btn_debounce.v" \
+"../../../../elevator_demo.srcs/sources_1/new/call.v" \
+"../../../../elevator_demo.srcs/sources_1/imports/20220623backup/display_seg.v" \
+"../../../../elevator_demo.srcs/sources_1/imports/20220623backup/door.v" \
+"../../../../elevator_demo.srcs/sources_1/new/in_btn.v" \
+"../../../../elevator_demo.srcs/sources_1/imports/20220623backup/led.v" \
+"../../../../elevator_demo.srcs/sources_1/new/out_btn.v" \
+"../../../../elevator_demo.srcs/sources_1/imports/20220623backup/state.v" \
+"../../../../elevator_demo.srcs/sources_1/imports/20220623backup/top_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
