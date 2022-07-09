@@ -26,7 +26,7 @@
 
 ### 3.操作方式
 
-​	见bilibili视频，链接如下：https://www.bilibili.com/video/BV1gT411g7dZ?spm_id_from=333.999.0.0&vd_source=7f0b27ca259f1e31534ad8328a5049d5
+​	见bilibili视频，链接如下：https://www.bilibili.com/video/BV1gT411g7dZ?share_source=copy_web
 
 ### 4.其它说明
 
